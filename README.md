@@ -1,6 +1,12 @@
 <div align="center">
-<img src="https://github.com/Satishdubey007/portfolio/blob/main/assets/my-avatar.png" align="center" style="width: 100%" />
-</div>  
+    <img 
+        src="https://github.com/Satishdubey007/portfolio/blob/main/assets/my-avatar.png" 
+        alt="Satish Kumar Dubey's Avatar" 
+        style="width: 30%; height: auto; border-radius: 50%; overflow: hidden; border: 2px solid #000;" 
+    />
+</div>
+
+
   
 
 ### <div align="center">I'm Satish Kumar Dubey, a full-time full-stack freelance developer 👨‍💻 and B.Tech 3rd year student</div>  
