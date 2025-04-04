@@ -1,10 +1,3 @@
-<div align="center">
-    <img 
-        src="https://github.com/Satishdubey007/portfolio/blob/main/assets/my-avatar.png" 
-        alt="Satish Kumar Dubey's Avatar" 
-        style="width: 30%; height: auto; border-radius: 50%; overflow: hidden; border: 2px solid #000;" 
-    />
-</div>
 
 
   
