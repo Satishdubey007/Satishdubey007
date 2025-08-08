@@ -56,12 +56,20 @@
 
 ---
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Satishdubey007&theme=radical&hide_border=true" height="170" />
-</div>
+
+
+<!-- Other sections above -->
+
+## 🐍 Snake Contribution Graph
+![Snake animation](https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Satishdubey007/Satishdubey007/output/github-contribution-grid-snake.svg" />
-</div>
+## 📊 GitHub Stats
+![Satish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Satishdubey007&show_icons=true&theme=radical)
+
+---
+
+## 📈 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Satishdubey007&layout=compact&theme=radical)
+
