@@ -3,6 +3,13 @@
 
 ---
 
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Satishdubey007&theme=onedark&no-frame=true&row=1&column=6" />
+</div>
+
+---
+
 - 🔭 Currently working on Frontend Web Development  
 - 🌱 Actively looking for **internships**  
 - 🧑‍🏫 Also teaching Web Development  
@@ -53,10 +60,8 @@
 ## 📊 GitHub Stats  
 <div align="center">
   
-  <!-- Black-Orange Theme Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=Satishdubey007&show_icons=true&theme=radical&hide_border=true" height="170" />
   
-  <!-- Most Used Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satishdubey007&layout=compact&theme=radical&hide_border=true" height="170" />
 
 </div>  
@@ -70,11 +75,9 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🐍 Snake Contribution Animation  
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Satishdubey007&theme=onedark&no-frame=true&row=1&column=6" />
+  <img src="https://github.com/Satishdubey007/Satishdubey007/blob/output/github-contribution-grid-snake.svg" />
 </div>
-
----
 
 
