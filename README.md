@@ -53,13 +53,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Satishdubey007&show_icons=true&theme=radical&hide_border=true" height="170" />
 </div>
 
----
-
-## 📈 Most Used Languages
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satishdubey007&layout=compact&theme=radical" />
 </div>
 
 ---
 
-![Snake animation](https://github.com/Satishdubey007/Satishdubey007/blob/output/github-contribution-grid-snake.svg)
