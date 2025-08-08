@@ -1,16 +1,10 @@
-<h2 align="center">I'm Satish Kumar Dubey</h2>
+<h2 align="center"> Hi 👋, I'm Satish Kumar Dubey</h2>
 <h4 align="center">A full-time freelance Full-Stack Developer 👨‍💻 and a B.Tech 4th Year Student</h4>
 
 ---
 
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Satishdubey007&theme=onedark&no-frame=true&row=1&column=6" />
-</div>
 
----
-
-- 🔭 Currently working on Frontend Web Development  
+- 🔭 Currently working on  **Artificial Intelligence & Machine Learning Projects**   
 - 🌱 Actively looking for **internships**  
 - 🧑‍🏫 Also teaching Web Development  
 - ⚡ Fun fact: I use **tabs over spaces**
@@ -66,18 +60,27 @@
 
 </div>  
 
----
 
-## 🔥 Streak Stats  
+
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Satishdubey007&theme=radical&hide_border=true" height="170" />
+  <img src="https://streak-stats.demolab.com?user=Satishdubey007&theme=radical&hide_border=true" height="170" />
+</div>
+
+---
+  
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Satishdubey007/Satishdubey007/output/github-contribution-grid-snake.svg" />
+</div>
+
+
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Satishdubey007&theme=radical&hide_border=true" height="170" />
 </div>
 
 ---
 
-## 🐍 Snake Contribution Animation  
 <div align="center">
-  <img src="https://github.com/Satishdubey007/Satishdubey007/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Satishdubey007/Satishdubey007/output/github-contribution-grid-snake.svg" />
 </div>
-
-
